@@ -49,6 +49,11 @@ body {
     padding: 20px;
 }
 
+.heading {
+    border-style: dashed;
+    padding: 20px;
+}
+
 .right {
     display: flex;
     flex: 1;
